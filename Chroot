@@ -1,0 +1,48 @@
+# Chroot
+
+- login as root user
+
+sudo su -
+
+
+- make a dir in home named moh-arkham
+
+mkdir /home/moh-arkham
+
+
+- inside moh-arkham create two more dir
+
+mkdir /home/moh-arkham/{bin,lib64}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
