@@ -16,6 +16,40 @@ mkdir /home/moh-arkham/{bin,lib64}
 
 
 
+- add a group named inmates
+
+groupadd inmates
+
+
+- add user to that group
+
+useradd -g inmates quinn
+
+
+- check who was added to group
+
+groups quinn
+
+
+- goto bin
+
+cd /home/moh-arkham/bin/
+
+
+- copy 
+
+cp /usr/bin/ls .
+
+cp /usr/bin/bash .
+
+
+
+
+
+
+
+
+
 
 
 
